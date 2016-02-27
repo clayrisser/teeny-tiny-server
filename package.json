@@ -1,0 +1,14 @@
+{
+  "name": "server-lite",
+  "version": "1.0.0",
+  "description": "Lightweight blazing fast NodeJS server for static web content",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JamRizzi Technologies",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
