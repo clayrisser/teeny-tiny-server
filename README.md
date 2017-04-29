@@ -2,6 +2,23 @@
 Lightweight blazing fast NodeJS server for static web content
 
 
+## Installation
+<!------------------------------------------------------->
+
+```sh
+git clone https://github.com/jamrizzi/teeny-tiny-server.git
+```
+
+
+## Usage
+<!------------------------------------------------------->
+
+```sh
+cd teeny-tiny-server
+node server.js
+```
+
+
 ## Support
 <!------------------------------------------------------->
 
