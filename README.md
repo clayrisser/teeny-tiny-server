@@ -2,6 +2,9 @@
 
 Lightweight blazing fast NodeJS server for static web content
 
+
+![](assets/teeny-tiny-server.png)
+
 Please &#9733; this repo if you found it useful &#9733; &#9733; &#9733;
 
 
